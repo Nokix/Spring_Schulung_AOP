@@ -26,6 +26,8 @@ public class BeanConfig {
             shoppingCart.checkout();
             shoppingCart.addItem(item1);
             shoppingCart.checkout();
+            shoppingCart.removeItem(item0);
+            shoppingCart.checkout();
         };
     }
 }
