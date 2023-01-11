@@ -1,5 +1,6 @@
 package com.example.spring_schulung_aop.shopping;
 
+import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 import java.util.HashMap;
